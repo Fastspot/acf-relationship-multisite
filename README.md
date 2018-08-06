@@ -1,8 +1,6 @@
 ### IMPORTANT NOTICE
 
-**There are a lot requests and issus regarding the (pre-)selection of post types and/or taxonomies. But there's one main problem within WordPress: Post Types, especially CPTs, are registered for each individual site at run time. So there's no easy possibilty to grab post types and taxonomies from other sites.**
-
-**This plugin is no longer being developed! If anyone has the knowledge and time further developing the plugin, feel free to use the existing code.**
+**This is a bugfixed version of tmconnect/acf-relationship-multisite.**
 
 # Advanced Custom Fields: Relationship Multisite
 
